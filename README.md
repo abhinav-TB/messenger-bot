@@ -130,7 +130,6 @@ git push heroku master
 
   Send a message to your Page from Facebook or in Messenger, if your webhook receives an event, you have fully set up your app! Voilà!
 
-## License
-Sample Messenger App Original Coast Clothing is BSD licensed, as found in the LICENSE file.
+
 
 .
