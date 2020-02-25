@@ -43,10 +43,7 @@ module.exports = {
   shopUrl: process.env.SHOP_URL,
 
   // Persona IDs
-  personas: {PERSONA_BILLING = 478399523066982,
-    PERSONA_CARE = 592533368138747,
-    PERSONA_ORDER = 181964326571126,
-    PERSONA_SALES = 1231965993861716},
+  personas: {},
 
   // Preferred port (default to 3000)
   port: process.env.PORT || 3000,
