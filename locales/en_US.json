@@ -11,7 +11,7 @@
     "start_over": "Start over"
   },
   "get_started": {
-    "welcome": "Hi {{userFirstName}}! Welcome to ATB foot wearwhere you'll find styles for every occasion.",
+    "welcome": "Hi {{userFirstName}}! Welcome to ATB foot wear where you'll find styles for every occasion.",
     "guidance": "At any time, use the menu below to navigate through the features",
     "help": "What we can do to help you today?"
   },
@@ -29,7 +29,7 @@
     "me": "For me!",
     "someone": "Someone else",
     "work": "Work",
-    "dinner": "Dinner",
+    "dinner": "sports",
     "party": "Party",
     "sales": "Talk to sales",
     "shop": "Shop this look",
