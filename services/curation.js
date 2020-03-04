@@ -218,7 +218,7 @@ module.exports = class Curation {
     }
 
     let response = Response.genGenericTemplate(
-      `${config.appUrl}/styles/${outfit}.jpg`,
+      `${config.appUrl}/styles/item-1.jpg`,
       i18n.__("curation.title"),
       i18n.__("curation.subtitle"),
       buttons

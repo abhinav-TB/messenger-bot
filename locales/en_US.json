@@ -6,7 +6,7 @@
     "support": "Customer Support",
     "order": "Order updates",
     "help": "Talk to an agent",
-    "suggestion": "Outfit suggestions",
+    "suggestion": "Footwear suggestions",
     "shop": "Shop now",
     "start_over": "Start over"
   },
@@ -23,7 +23,7 @@
     "coupon": "Added your coupon to this thread, you can now check out the discounted summer collection"
   },
   "curation": {
-    "prompt": "Are you looking for an outfit for yourself or someone else?",
+    "prompt": "Are you looking for  yourself or someone else?",
     "occasion": "Great! Let's get started. First, is there an occasion in mind?",
     "price": "How much are you looking to spend?",
     "me": "For me!",
