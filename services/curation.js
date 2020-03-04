@@ -203,7 +203,7 @@ module.exports = class Curation {
     let buttons = [
       Response.genWebUrlButton(
         i18n.__("curation.shop"),
-        `${config.shopUrl}`
+        `${config.shopUrl}product-detail.html`
       ),
       Response.genPostbackButton(
         i18n.__("curation.show"),
