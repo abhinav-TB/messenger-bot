@@ -1,6 +1,6 @@
 
 
-# Setting up your Messenger App
+# Setting up AMessenger App
 
 ## Requirements
 
