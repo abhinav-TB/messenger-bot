@@ -175,7 +175,7 @@ module.exports = class Curation {
         outfit = `${this.user.gender}-${this.randomOutfit()}`;
 
         response = Response.genGenericTemplate(
-          `${config.appUrl}/styles/item-1.jpg`,
+          `${config.appUrl}/styles/${outfit}.jpg`,
           i18n.__("curation.title"),
           i18n.__("curation.subtitle"),
           [
